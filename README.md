@@ -44,6 +44,17 @@
 
 <image src='query2.JPG' width='500px'>      
 
-<b>Table report</b>
+<b>Bar chart report</b>
 
 <image src='report2.JPG' width='500px'>
+ 
+  <b>Query 3</b>
+
+/*Total Sales Price by Continent in 2008*/
+
+<image src='query3.png' width='500px'>      
+
+<b>Pie chart report</b>
+
+<image src='report3.JPG' width='500px'>
+
