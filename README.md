@@ -34,4 +34,6 @@
      Order by 
        "Territory Name", p.FirstName;
 
-Table report
+<b>Table report</b>
+
+<image src='report1.JPG' width='500px'>
