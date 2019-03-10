@@ -5,7 +5,9 @@
 <b> Objective </b>
 
   -Understanding Database Structure 
+  
   -Creating Queries (select statement, joins, grouping) 
+  
   -Report Building using MS Report Builder 
 
 <b>Table Structure </b>
