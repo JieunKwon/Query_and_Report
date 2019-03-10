@@ -13,7 +13,7 @@
 <image src='tables.JPG' width='600px'>
  
  
-<b>Queries</b>
+<b>Query</b>
 
 /*Show SalesPerson with their full name and Quota and Territory*/
 
@@ -37,3 +37,13 @@
 <b>Table report</b>
 
 <image src='report1.JPG' width='500px'>
+ 
+ <b>Query 2</b>
+
+/*Show Sales Volume of Canada*/
+
+<image src='query2.JPG' width='500px'>      
+
+<b>Table report</b>
+
+<image src='report2.JPG' width='500px'>
