@@ -2,6 +2,7 @@
 
 @ MS-SQL 2017 , MS Report Builder 2016
  
+
 <b> Objective </b>
 
   -Understanding Database Structure 
@@ -9,6 +10,7 @@
   -Creating Queries (select statement, joins, grouping) 
   
   -Report Building using MS Report Builder 
+
 
 <b>Table Structure </b>
 
@@ -36,6 +38,7 @@
      Order by 
        "Territory Name", p.FirstName;
 
+
 <b>Table report</b>
 
 <image src='report1.JPG' width='500px'>
@@ -46,6 +49,7 @@
 
 <image src='query2.JPG' width='500px'>      
 
+
 <b>Bar chart report</b>
 
 <image src='report2.JPG' width='500px'>
@@ -55,6 +59,7 @@
 /*Total Sales Price by Continent in 2008*/
 
 <image src='query3.png' width='500px'>      
+
 
 <b>Pie chart report</b>
 
