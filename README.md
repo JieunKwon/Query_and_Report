@@ -32,7 +32,8 @@
        where sp.TerritoryID = st.TerritoryID) 
        as "Territory Name"
      from 
-       Sales.SalesPerson sp, Person.Person p
+       Sales.SalesPerson sp, 
+       Person.Person p
      where 
        sp.BusinessEntityID = p.BusinessEntityID
      Order by 
@@ -54,7 +55,8 @@
 
 <image src='report2.JPG' width='500px'>
  
-  <b>Query 3</b>
+  
+<b>Query 3</b>
 
 /*Total Sales Price by Continent in 2008*/
 
