@@ -12,7 +12,7 @@
   -Report Building using MS Report Builder 
 
 
-<b>Table Structure </b>
+<b> Database Table Structure </b>
 
 <image src='tables.JPG' width='600px'>
  
